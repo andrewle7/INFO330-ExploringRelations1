@@ -1,4 +1,4 @@
 
 
 DELETE FROM persons 
-WHERE city = 'Kansas City' OR 'Pittsburgh' OR 'Jacksonville';
+WHERE city = "Kansas City" OR "Pittsburgh" OR "Jacksonville";

@@ -1,4 +1,4 @@
 
-UPDATE persons SET city = 'Tulsa' 
-WHERE city = 'Sacramento';
+UPDATE persons SET city = "Tulsa" 
+WHERE city = "Sacramento";
 
